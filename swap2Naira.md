@@ -1,45 +1,45 @@
 # Swap2Naira — Swap Gift Cards to Naira + Pay Bills
 
-**📦 Type:** Personal Project  
-**🎯 Role:** Mobile Engineer  
-**🧠 Stack:** Kotlin, Retrofit, Firebase, REST API integration  
-**📱 Platform:** Android  
-**🧪 Status:** Prototype/Testing
+**📦 Type:** Live Personal Project  
+**🎯 Role:**  Mobile Engineer  
+**🧠 Stack:** Kotlin (Android), Firebase Auth, REST APIs, ViewBinding  
+**🌍 Website:** [https://swap2naira.com](https://swap2naira.com)
 
 ---
 
 ## 📱 What I Built
 
-- Developed the full **Android frontend** for Swap2Naira — a fintech app for:
-  - Swapping gift cards to Naira
-  - Paying bills (airtime, internet, electricity, etc.)
-- Integrated **REST APIs** provided by backend devs to:
-  - Fetch available services and rates
-  - Submit swap requests
-  - Track order status and balances
-- Used **Retrofit + ViewBinding** for clean, scalable architecture.
+Swap2Naira is a mobile-first fintech platform that helps Nigerians:
+
+- **Convert gift cards into instant Naira**
+- **Pay for bills** like airtime, data, electricity, and cable TV
+
+As the sole mobile dev, I built the Android app and fully integrated it with custom backend APIs from my teammate.
+
+---
+
+## 🔧 Key Features
+
+- Upload gift card images and receive Naira after approval
+- In-app transaction tracking & payout confirmation
+- Bill payment flow integrated with VTPass-style API architecture
+- Firebase authentication with secure user sessions
+- Simple and clean UI for fast daily use
 
 ---
 
 ## 💡 Highlights
 
-- Implemented image compression and upload logic for gift card proof.
-- Designed custom modals for success/failure of transactions.
-- Built a responsive dashboard with tabbed navigation between swaps and bill pay.
-- Created a future-ready structure for adding crypto swaps and referrals.
+- Implemented **image compression** to speed up gift card uploads
+- Designed custom **status modals** for swap and bill confirmations
+- Used **modular architecture** to separate swap and bill logic
+- Set up **admin flagging system** for verifying merchants and users
 
 ---
 
-## 🤝 Collaboration
+## 🔗 Live App
 
-- Closely collaborated with backend developer to implement and debug REST API requests.
-- Maintained flexibility in API versioning and error states for edge cases.
+👉 Visit: [https://swap2naira.com](https://swap2naira.com)
 
----
-
-## 🔐 Why Code is Private
-
-This is a monetizable product and currently under private testing.  
-Reach out for a demo or to build your own version.
-
-📩 Contact: [gideonjones63@gmail.com] or [Twitter](https://twitter.com/codewithananam)
+📩 Contact: [gideonjones63@gmail.com]  
+🐦 Twitter: [https://twitter.com/yourhandle](https://twitter.com/codewithananam)
